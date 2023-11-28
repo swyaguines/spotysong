@@ -1,0 +1,40 @@
+.musicas{
+    width: 80%;
+    margin-left:20%;
+}
+.musicas li{
+    margin-bottom:8%;
+    border-bottom: solid 1px rgb(126, 126, 126);
+}
+.musicas li audio{
+    margin-bottom: 3%;
+}
+.title-musicas{
+    font-size: 33px;
+    margin: auto;
+    margin-top:2%;
+    margin-bottom:5%;
+}
+.btn-adicionar{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline-block;
+    float: right;
+    width: 15%;
+    height: 50px;
+    margin-right:50%;
+    background-color: transparent;
+    transition: all .2s linear;
+}
+.btn-adicionar:hover{
+    background-color: rgb(51, 219, 0);
+    transform: translateY(-5px);
+}
+.buscador{
+    width: 50%;
+    margin: auto;
+    margin-bottom:5%;
+    font-size: 20px;
+}
+

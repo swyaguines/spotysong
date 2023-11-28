@@ -1,0 +1,39 @@
+.playlist-main{
+    width: 80%;
+    margin-left:20%;
+}
+.card-playlist{
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+    float:left;
+    margin-top:9%;
+}
+.card-playlist img{
+    width: 100%;
+    height: 100%;
+}
+.section-musicas-playlist{
+   display: inline-block;
+   width: 35%;
+   margin-top:7%;
+   margin-left:5%;
+}
+.section-musicas-playlist li{
+    margin-bottom:10%;
+    border-bottom: solid 1px rgb(126, 126, 126);
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+}
+.nome{
+    font-size: 18px;
+}
+.artista{
+    color:rgb(172, 172, 172);
+}
+.section-musicas-playlist li audio{
+    margin-bottom: 5%;
+}
+
